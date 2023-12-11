@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Tobalo!
 
 ## 🌐 About Me
-- 🚀 I specialize in understanding the global edge services/applications/data dependencies.
-- 🛠️ Passionate about product development with agnostic cloud portable services.
+- 🚀 Focused in understanding maximum availability global edge data services from L3 and up.
+- 🛠️ Passionate about product development with portable agnostic cloud services.
 - 🔒 Focused on security engineering and cloud advisory/strategy.
 - 🎥 Lover of documentaries.
 
