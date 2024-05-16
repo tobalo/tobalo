@@ -1,12 +1,17 @@
 # 👋 Hi, I'm Tobalo!
 
 ## 🕵🏽‍♂️ Current Tech Focus
+- edgeAI for crisis response
 - NATS
 - Benthos
 - Metagraph / Hyper Graph Transfer Protocol
-- Golang
-- Astro.js
+- Golang / Rust service fleet & maintenance
+- Astro.js / Vite.js / SSE real time signal interfaces
 - Red Hat
+- Unikernels
+- Data Ontologies
+- global state management for multi-domain data primitives
+- City DAOs and node-centric cyber defense
 
 ## 🌐 About Me
 - 🚀 Focused in understanding maximum availability global edge data services.
