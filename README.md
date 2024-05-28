@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Tobalo!
 
 ## 🕵🏽‍♂️ Current Tech Focus
-- edgeAI for crisis response
+- EdgeAI
 - NATS
 - Benthos
 - Metagraph / Hyper Graph Transfer Protocol
@@ -10,8 +10,8 @@
 - Red Hat
 - Unikernels
 - Data Ontologies
-- global state management for multi-domain data primitives
-- City DAOs and node-centric cyber defense
+- Global state management for multi-domain data primitives
+- City DAOs and node-centric cyber resilience
 
 ## 🌐 About Me
 - 🚀 Focused in understanding maximum availability global edge data services.
