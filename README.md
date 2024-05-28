@@ -3,7 +3,6 @@
 ## 🕵🏽‍♂️ Current Tech Focus
 - EdgeAI
 - NATS
-- Benthos
 - Metagraph / Hyper Graph Transfer Protocol
 - Golang / Rust service fleet & maintenance
 - Astro.js / Vite.js / SSE real time signal interfaces
