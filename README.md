@@ -12,6 +12,8 @@
 - Global state management for multi-domain data primitives
 - City DAOs and node-centric cyber resilience
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=tobalo&layout=compact"/>
+
 ## 🌐 About Me
 - 🚀 Focused in understanding maximum availability global edge data services.
 - 🛠️ Passionate about product development with portable agnostic cloud services.
