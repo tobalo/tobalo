@@ -4,7 +4,7 @@
 - EdgeAI
 - NATS
 - Metagraph / Hyper Graph Transfer Protocol
-- Golang / Rust service fleet & maintenance
+- Golang
 - Astro.js / Vite.js / SSE real time signal interfaces
 - Red Hat
 - Unikernels
