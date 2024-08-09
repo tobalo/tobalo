@@ -6,7 +6,6 @@
 - Metagraph / Hyper Graph Transfer Protocol
 - Golang
 - Astro.js / Vite.js / SSE real time signal interfaces
-- Red Hat
 - Unikernels
 - Data Ontologies
 - Global state management for multi-domain data primitives
