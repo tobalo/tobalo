@@ -16,7 +16,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tobalo&layout=compact"/>
 
 ## 🌐 About Me
-- 🤖 Buildimg the future of human work wkth AI agents and automations
+- 🤖 Building the future of human work with AI agents, assistants, and workflow automations.
 - 🚀 Focused in understanding maximum availability global edge data services.
 - 🛠️ Passionate about product development with portable agnostic cloud services.
 - 🔒 Focused on security engineering and cloud advisory/strategy.
