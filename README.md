@@ -23,4 +23,4 @@
 - 🎥 Lover of documentaries.
 
 ## 📫 How to Reach Me
-https://tobalo.me! 🌟
+https://x.com/tobalotv 🌟
