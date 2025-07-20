@@ -1,17 +1,15 @@
 # 👋 Hi, I'm Tobalo!
 
 ## 🕵🏽‍♂️ Current Tech Focus
-- Vertical AI agents
-- Knowledge Base and Unstructured Data cleaning
+- Value & Outcome driven AI agents
+- Knowledge Base, Knowledge Graphs, and Unstructured Data cleaning
 - EdgeAI
-- NATS
-- Metagraph / Hyper Graph Transfer Protocol
 - Golang
 - Astro.js / Vite.js / SSE real time signal interfaces
 - Unikernels
 - Data Ontologies
 - Global state management for multi-domain data primitives
-- City DAOs and node-centric cyber resilience
+- City DAOs and node-centric cyber resilience via Blockchain & AI for Fort Worth
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tobalo&layout=compact"/>
 
