@@ -1,11 +1,13 @@
 # 👋 Hi, I'm Tobalo!
 
+Actively maintain and buildimg y2.dev, fort-os.com, fwtx.city, constellation-overwatch.dev
+
 ## 🕵🏽‍♂️ Current Tech Focus
 - Value & Outcome driven AI agents
 - Knowledge Base, Knowledge Graphs, and Unstructured Data cleaning
 - EdgeAI
-- Golang
-- Astro.js / Vite.js / SSE real time signal interfaces
+- KVM + MicroVM (Firecracker + GPU) service orchestration
+-  real time signal interfaces via d*
 - Unikernels
 - Data Ontologies
 - Global state management for multi-domain data primitives
@@ -19,6 +21,7 @@
 - 🛠️ Passionate about product development with portable agnostic cloud services.
 - 🔒 Focused on security engineering and cloud advisory/strategy.
 - 🎥 Lover of documentaries.
+- 👨🏽‍🏫 Giving back and educating on cyber literacy and digital sovereignty 
 
 ## 📫 How to Reach Me
 https://x.com/tobalotv 🌟
